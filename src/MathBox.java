@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class MathBox<list> {
+public class MathBox{
 
     public MathBox(int arr[]) {
 
