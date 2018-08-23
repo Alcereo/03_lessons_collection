@@ -10,8 +10,6 @@ public class QuickSort {
         if (index < right)
             quickSort(list, index, right);
 
-//            System.out.println(Arrays.toString(arr));
-
         return list;
     }
 
