@@ -1,3 +1,5 @@
+package lessons_04_generics_2;
+
 import java.util.Random;
 
 public class GenerateArray {
